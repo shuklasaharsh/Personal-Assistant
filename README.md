@@ -6,11 +6,6 @@
 4. [How to contribute](#How-to-contribute)
 5. [Connect with me](#Connect-with-me)
 
-## Support me
-[Paypal Me](https://www.paypal.com/paypalme/davidepollicino7?locale.x=en_US)
-</br></br>
-<a href="https://www.buymeacoffee.com/omonimus1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ## What you can find in this repository
 
 Here you can find a personal assistant  that I have created to learn more about Text-To-Speech and Spee-to-Text techinques and practice with Python.
@@ -51,28 +46,3 @@ python assistant.py
 * Python binding - vlc ``` https://wiki.videolan.org/Python_bindings/```
 ### Problems with PyAudio?
 ```sudo apt-get install portaudio19-dev python-pyaudio```
-
-
-## How to contribute
-1. Fork the repository
-2. Do the desired changes (add/delete/modify)
-3. Make a pull request
-
-## When to contribute
-1. If you want to suggest a new feature or update
-
-## Mind that
-Constructive criticisms or code reviews of any kind are very much welcome.
-
-If you have any questions about the solutions you can find here, feel free to contact me at: [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20PersonalAssistant)
-
-## Connect with me
-
-* [davidepollicino2015@gmail.com](mailto:davidepollicino2015@gmail.com?subject=[GitHub]%20PersonalAssistant)
-* [Linkedin](https://www.linkedin.com/in/davidepollicino7/)
-* [www.davidepollicino.com](http://davidepollicino.com/)
-
-## Support me
-[Paypal Me](https://www.paypal.com/paypalme/davidepollicino7?locale.x=en_US)
-</br></br>
-<a href="https://www.buymeacoffee.com/omonimus1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
