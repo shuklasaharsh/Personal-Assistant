@@ -3,8 +3,7 @@
 1. [What you can find in this repository](#What-you-can-find-in-this-repository)
 2. [Functionalities](#Functionalities)
 3. [How to run it](#How-to-run-it)
-4. [How to contribute](#How-to-contribute)
-5. [Connect with me](#Connect-with-me)
+4. [Connect with me](mailto:saharsh.shukla2018@vitstudent.ac.in)
 
 ## What you can find in this repository
 
